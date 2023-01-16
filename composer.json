@@ -1,0 +1,15 @@
+{
+    "name": "tesoreria/patterns-design",
+    "autoload": {
+        "psr-4": {
+            "Tesoreria\\PatternsDesign\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jolu",
+            "email": "joluquispe2@gmail.com"
+        }
+    ],
+    "require": {}
+}
